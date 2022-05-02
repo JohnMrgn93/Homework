@@ -1,0 +1,30 @@
+* p {
+  color: black;
+  font-size: x-large;
+}
+
+body {
+  background-color: olivedrab;
+}
+
+id.class1{
+  color:black;
+}
+
+h1{
+  color:orange
+}
+
+h2{
+color:orangered
+}
+
+ol {
+  border: 5px solid yellow;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+
