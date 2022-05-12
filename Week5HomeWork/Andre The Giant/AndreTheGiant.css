@@ -1,0 +1,55 @@
+body {
+  background-color:black;
+}
+
+ p {
+  color: whitesmoke;
+  font-size: x-large;
+}
+  
+#introPic{
+  width: 100%;
+    height: 50%;
+}
+
+#bio {
+  color:white;
+  font-family: Jakarta Sans
+}
+
+  #achievements {
+    
+    color:white
+  
+  }
+
+  p {font-family: 'Roboto', sans-serif;
+
+  }
+
+  h2{
+    color: red
+  }
+
+  ul 
+  {
+    border: 5px solid whitesmoke;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+  }
+
+   p {
+    color: whitesmoke;
+    font-size: x-large;
+  }
+
+  img {
+    width: 50%;
+    height: 50%;
+  }
+
+  @media all (max-width: 375px) {
+    
+  }
